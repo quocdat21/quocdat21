@@ -4,7 +4,7 @@
 - 🔭 I'm currently working on **RFID-based Student Attendance App using Flutter**
 - 🌱 I'm learning **AR/VR development and Fullstack Firebase**
 - 👯 I’m looking to collaborate on **IoT x Mobile projects**
-- 📫 How to reach me: **youremail@example.com**
+- 📫 How to reach me: **quocdatdev213@gmail.com**
 
 ---
 
