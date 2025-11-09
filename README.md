@@ -19,6 +19,6 @@
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=datquoc&show_icons=true&locale=en" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=datquoc&layout=compact" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=quocdat21&show_icons=true&locale=en" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=quocdat21&layout=compact" alt="Top languages" />
 </p>
