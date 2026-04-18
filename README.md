@@ -21,7 +21,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="45"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45"/>
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" width="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
 </p>
 
