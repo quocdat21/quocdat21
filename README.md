@@ -43,6 +43,9 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=quocdat21&theme=tokyonight&hide_border=true"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=quocdat21&bg_color=0d1117&color=58a6ff&line=ff7b72&point=f0f6fc&hide_border=true"/>
+</p>
 
 ---
 
