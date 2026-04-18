@@ -41,7 +41,7 @@
 <!-- ACTIVITY -->
 ### 🔥 Activity:
 <p align="center">
-  [<img src="https://github-readme-activity-graph.vercel.app/graph/?username=quocdat21&cache_seconds=0&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>]
+  <img src="https://streak-stats.demolab.com?user=quocdat21&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
