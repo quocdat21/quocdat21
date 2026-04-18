@@ -1,30 +1,21 @@
-<!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1F222E&height=200&section=header&text=Hi%20I'm%20Quốc%20Đạt%20👋&fontSize=50&animation=fadeIn&fontAlignY=35&fontColor=F8D866" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Hi%20I'm%20Quốc%20Đạt%20👋&fontSize=50&animation=fadeIn&fontAlignY=35&fontColor=E1F5EE" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F8D866&center=true&vCenter=true&width=600&lines=Flutter+Developer;IoT+Enthusiast;AR%2FVR+Explorer;Fullstack+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Flutter+Developer;IoT+Enthusiast;AR%2FVR+Explorer;Fullstack+Learner" />
 </p>
 
 <p align="center">
-  <kbd style="background-color:#1F222E; color:#F8D866; border:1px solid #F85D7F;">
-    🚀 Building smart solutions with Mobile & IoT
-  </kbd>
+  <kbd>🚀 Building smart solutions with Mobile & IoT</kbd>
   <br><br>
-  📍 <b style="color:#F8D866;">Vietnam</b>
+  📍 <b>Ho Chi Minh City, Vietnam</b>
 </p>
 
 <p align="center">
-  <a href="mailto:quocdatdev213@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1F222E?style=for-the-badge&logo=gmail&logoColor=F8D866" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-1F222E?style=for-the-badge&logo=linkedin&logoColor=F8D866" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Facebook-1F222E?style=for-the-badge&logo=facebook&logoColor=F8D866" />
-  </a>
+  <a href="mailto:quocdatdev213@gmail.com"><img src="https://img.shields.io/badge/Email-1D9E75?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-534AB7?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Facebook-7F77DD?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>
 
 ---
@@ -37,10 +28,10 @@
       <p>🎯 <b>Focus:</b> Mobile Apps & IoT Systems</p>
       <p>🔭 <b>Current Project:</b> RFID Student Attendance System</p>
       <p>🌱 <b>Learning:</b> AR/VR (Unity) & NodeJS Ecosystem</p>
-      <p>🤝 <b>Passion:</b> Bridging Hardware & Software</p>
+      <p>🤝 <b>Passion:</b> Bridging the gap between Hardware and Software</p>
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quocdat21&layout=donut&hide_border=true&bg_color=1F222E&title_color=F8D866&text_color=FFFFFF" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quocdat21&layout=donut&hide_border=true&title_color=F8D866&bg_color=1F222E&text_color=FFFFFF" />
     </td>
   </tr>
 </table>
@@ -73,27 +64,27 @@
 ## 📊 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quocdat21&show_icons=true&hide_border=true&bg_color=1F222E&title_color=F8D866&icon_color=F85D7F&text_color=FFFFFF" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=quocdat21&show_icons=true&hide_border=true&title_color=F8D866&icon_color=F85D7F&bg_color=1F222E&text_color=FFFFFF" height="180px"/>
   <img src="https://streak-stats.demolab.com?user=quocdat21&hide_border=true&background=1F222E&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF&sideNums=F8D866&currStreakNum=F8D866" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=quocdat21&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph/?username=quocdat21&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&cache_seconds=0" width="100%"/>
 </p>
 
 ---
 
 ## 💡 Highlight Projects
 
-- 📱 **RFID Attendance App** – Smart student tracking system  
-- 🏝️ **Resort Booking App** – Flutter + NodeJS + MySQL  
-- 🪑 **Furniture AR App** – Unity AR visualization  
+- 📱 **RFID Attendance App** – *Smart student tracking system using Flutter & IoT.*  
+- 🏝️ **Resort Booking App** – *Fullstack booking platform with NodeJS & MySQL.*  
+- 🪑 **Furniture AR App** – *Unity-based visualization for interior design.*
 
 ---
 
 <p align="center">
   <br>
-  <i style="color:#F8D866;">✨ Always learning, always building ✨</i>
+  <i>✨ "Always learning, always building" ✨</i>
   <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1F222E&height=80&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=80&section=footer" />
 </p>
