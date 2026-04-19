@@ -83,7 +83,7 @@
 
 <p align="center">
   <br>
-  <i>✨ "Always learning, always building" ✨</i>
+  <font color="#FF6B6B">✨ <i>"Always learning, always building"</i> ✨</font>
   <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=80&section=footer" />
+  <img src="https://raw.githubusercontent.com/Tr0011/Tr0011/main/boundary.png" width="100%" />
 </p>
