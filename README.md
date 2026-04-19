@@ -62,10 +62,16 @@
 
 ## 📊 GitHub Contributions
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=quocdat21&show_icons=true&hide_border=true&title_color=F8D866&icon_color=F85D7F&bg_color=1F222E&text_color=FFFFFF" height="180px"/>
-  <img src="https://streak-stats.demolab.com?user=quocdat21&hide_border=true&background=1F222E&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF" height="180px"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=quocdat21&show_icons=true&hide_border=true&title_color=F8D866&icon_color=F85D7F&bg_color=1F222E&text_color=FFFFFF" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=quocdat21&hide_border=true&background=1F222E&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph/?username=quocdat21&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&cache_seconds=0" width="100%"/>
