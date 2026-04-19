@@ -81,4 +81,4 @@
 
 ---
 
-<p align="center"> <br> <i>✨ "Always learning, always building" ✨</i> <br><br> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=80&section=footer" /> </p>
+<p align="center"> <br> <i>✨ "Always learning, always building" ✨</i> <br><br> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=80&section=footer&fontColor=E1F5EE" /> </p>
