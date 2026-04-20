@@ -9,7 +9,7 @@
 <p align="center">
   <kbd>🚀 Building smart solutions with Mobile & IoT</kbd>
   <br><br>
-  📍 <b>Ho Chi Minh City, Vietnam</b>
+  📍 <b>Ha Noi, Vietnam</b>
 </p>
 
 <p align="center">
