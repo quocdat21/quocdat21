@@ -16,7 +16,7 @@
   <a href="mailto:datotis2103@gmail.com">
     <img src="https://img.shields.io/badge/Email-1D9E75?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/quoc-dat">
+  <a href="https://www.linkedin.com/in/qu%E1%BB%91c-%C4%91%E1%BA%A1t-2009183b3/?locale=vi">
     <img src="https://img.shields.io/badge/LinkedIn-534AB7?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/quocdat21">
@@ -37,9 +37,12 @@
       <p>🌱 <b>Also Learning:</b> React.js, Flutter, system integration</p>
       <p>🤝 <b>Goal:</b> Build clean, maintainable, and scalable applications</p>
     </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quocdat21&layout=donut&hide_border=true&title_color=F8D866&bg_color=1F222E&text_color=FFFFFF" />
-    </td>
+    <td width="50%" align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=quocdat21&layout=compact&langs_count=8&hide_border=true&border_radius=16&bg_color=1F222E&title_color=F8D866&text_color=FFFFFF&icon_color=F85D7F&hide=html,css&card_width=380" 
+    alt="Most Used Languages" 
+  />
+</td>
   </tr>
 </table>
 
