@@ -1,21 +1,27 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:534AB7&height=200&section=header&text=Hi%20I'm%20Quốc%20Đạt%20👋&fontSize=50&animation=fadeIn&fontAlignY=35&fontColor=E1F5EE" />
- 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:534AB7&height=200&section=header&text=Hi%20I'm%20Quốc%20Đạt%20👋&fontSize=50&animation=fadeIn&fontAlignY=35&fontColor=E1F5EE" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=Flutter+Developer;IoT+Enthusiast;AR%2FVR+Explorer;Fullstack+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=1D9E75&center=true&vCenter=true&width=700&lines=Back-End+Developer;Node.js+%7C+Express.js+%7C+MySQL;RESTful+API+Development;React.js+%7C+Flutter+Learner" />
 </p>
 
 <p align="center">
-  <kbd>🚀 Building smart solutions with Mobile & IoT</kbd>
+  <kbd>🚀 Building backend systems, APIs, and practical web applications</kbd>
   <br><br>
-  📍 <b>Ha Noi, Vietnam</b>
+  📍 <b>Hanoi, Vietnam</b>
 </p>
 
 <p align="center">
-  <a href="mailto:quocdatdev213@gmail.com"><img src="https://img.shields.io/badge/Email-1D9E75?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-534AB7?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Facebook-7F77DD?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:datotis2103@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1D9E75?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/quoc-dat">
+    <img src="https://img.shields.io/badge/LinkedIn-534AB7?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/quocdat21">
+    <img src="https://img.shields.io/badge/GitHub-1F222E?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -25,10 +31,11 @@
 <table align="center">
   <tr>
     <td width="50%" style="vertical-align: top;">
-      <p>🎯 <b>Focus:</b> Mobile Apps & IoT Systems</p>
-      <p>🔭 <b>Current Project:</b> RFID Student Attendance System</p>
-      <p>🌱 <b>Learning:</b> AR/VR (Unity) & NodeJS Ecosystem</p>
-      <p>🤝 <b>Passion:</b> Bridging the gap between Hardware and Software</p>
+      <p>🎯 <b>Focus:</b> Back-End Development</p>
+      <p>💻 <b>Main Stack:</b> Node.js, Express.js, MySQL, RESTful API</p>
+      <p>🔭 <b>Current Work:</b> PTIT IOC Dashboard System</p>
+      <p>🌱 <b>Also Learning:</b> React.js, Flutter, system integration</p>
+      <p>🤝 <b>Goal:</b> Build clean, maintainable, and scalable applications</p>
     </td>
     <td width="50%">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quocdat21&layout=donut&hide_border=true&title_color=F8D866&bg_color=1F222E&text_color=FFFFFF" />
@@ -41,21 +48,23 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,arduino,cpp,nodejs,express,mysql,unity,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mysql,react,flutter,dart,git,github,vscode&theme=dark" />
 </div>
 
 <br>
 
 <table align="center">
   <tr>
-    <td align="center"><b>Mobile</b></td>
-    <td align="center"><b>Backend & DB</b></td>
-    <td align="center"><b>IoT & Hardware</b></td>
+    <td align="center"><b>Backend</b></td>
+    <td align="center"><b>Database</b></td>
+    <td align="center"><b>Frontend / Mobile</b></td>
+    <td align="center"><b>Tools</b></td>
   </tr>
   <tr>
-    <td>Flutter, Dart</td>
-    <td>NodeJS, Firebase, MySQL</td>
-    <td>Arduino, ESP32, RFID, C++</td>
+    <td>Node.js, Express.js, RESTful API, MVC</td>
+    <td>MySQL, SQL Server basics</td>
+    <td>React.js, Flutter, Dart</td>
+    <td>Git, GitHub, Bruno API Client, VS Code</td>
   </tr>
 </table>
 
@@ -82,10 +91,15 @@
 
 ## 💡 Highlight Projects
 
-- 📱 **RFID Attendance App** – *Smart student tracking system using Flutter & IoT.*  
-- 🏝️ **Resort Booking App** – *Fullstack booking platform with NodeJS & MySQL.*  
-- 🪑 **Furniture AR App** – *Unity-based visualization for interior design.*
+* 🏝️ **Resort Booking App** – Fullstack resort booking system with Node.js, Express.js, MySQL, React.js, Flutter, and RESTful APIs.
+* 📊 **PTIT IOC Dashboard System** – Dashboard system for monitoring and visualizing operational data using React.js and existing RESTful APIs.
+* 💳 **Sepay Payment Integration** – Booking payment processing and transaction tracking for the Resort Booking App.
 
 ---
 
-<p align="center"> <br> <i>✨ "Always learning, always building" ✨</i> <br><br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:534AB7&height=80&section=footer&fontColor=E1F5EE" /> </p>
+<p align="center">
+  <br>
+  <i>✨ "Always learning, always building" ✨</i>
+  <br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:534AB7&height=80&section=footer&fontColor=E1F5EE" />
+</p>
