@@ -51,7 +51,7 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mysql,react,flutter,dart,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,mysql,react,flutter,dart,git,github,vscode&theme=dark" />
 </div>
 
 <br>
@@ -64,7 +64,7 @@
     <td align="center"><b>Tools</b></td>
   </tr>
   <tr>
-    <td>Node.js, Express.js, RESTful API, MVC</td>
+    <td>Node.js, TypeScript, Express.js, RESTful API, MVC</td>
     <td>MySQL, SQL Server basics</td>
     <td>React.js, Flutter, Dart</td>
     <td>Git, GitHub, Bruno API Client, VS Code</td>
