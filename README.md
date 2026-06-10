@@ -99,6 +99,11 @@
 * 💳 **Sepay Payment Integration** – Booking payment processing and transaction tracking for the Resort Booking App.
 
 ---
+## 👀 Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=quocdat21&color=238dd9&style=flat&label=VIEWS" />
+</p>
 
 <p align="center">
   <br>
