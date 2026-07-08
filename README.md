@@ -33,7 +33,7 @@
     <td width="50%" style="vertical-align: top;">
       <p>🎯 <b>Focus:</b> Back-End Development</p>
       <p>💻 <b>Main Stack:</b> Node.js, Express.js, MySQL, RESTful API</p>
-      <p>🔭 <b>Current Work:</b> PTIT IOC Dashboard System</p>
+      <!-- <p>🔭 <b>Current Work:</b> PTIT IOC Dashboard System</p> -->
       <p>🌱 <b>Also Learning:</b> React.js, Flutter, system integration</p>
       <p>🤝 <b>Goal:</b> Build clean, maintainable, and scalable applications</p>
     </td>
