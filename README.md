@@ -95,7 +95,6 @@
 ## 💡 Highlight Projects
 
 * 🏝️ **Resort Booking App** – Fullstack resort booking system with Node.js, Express.js, MySQL, React.js, Flutter, and RESTful APIs.
-* 📊 **PTIT IOC Dashboard System** – Dashboard system for monitoring and visualizing operational data using React.js and existing RESTful APIs.
 * 💳 **Sepay Payment Integration** – Booking payment processing and transaction tracking for the Resort Booking App.
 
 ---
