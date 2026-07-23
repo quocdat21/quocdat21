@@ -90,6 +90,16 @@
   <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=quocdat21&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true&cache_seconds=0" width="100%"/>
 </p>
 
+<!--
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img
+src="https://github-profile-trophy-one.vercel.app/?username=quocdat21&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=18"/>
+
+</div>
+-->
 ---
 
 ## 💡 Highlight Projects
