@@ -38,10 +38,10 @@
       <p>🤝 <b>Goal:</b> Build clean, maintainable, and scalable applications</p>
     </td>
     <td width="50%" align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=quocdat21&layout=compact&langs_count=8&hide_border=true&bg_color=1F222E&title_color=F8D866&text_color=FFFFFF&icon_color=F85D7F&hide=html,css&card_width=380" 
-    alt="Most Used Languages" 
-  />
+  <img
+  src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=quocdat21&layout=compact&langs_count=8&hide_border=true&bg_color=1F222E&title_color=F8D866&text_color=FFFFFF&icon_color=F85D7F&hide=html,css&card_width=380&cache_seconds=1800"
+  alt="Most Used Languages"
+/>
 </td>
   </tr>
 </table>
@@ -78,7 +78,7 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=quocdat21&show_icons=true&hide_border=true&title_color=F8D866&icon_color=F85D7F&bg_color=1F222E&text_color=FFFFFF" />
+      <img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=quocdat21&show_icons=true&hide_border=true&title_color=F8D866&icon_color=F85D7F&bg_color=1F222E&text_color=FFFFFF" />
     </td>
     <td>
       <img src="https://streak-stats.demolab.com?user=quocdat21&hide_border=true&background=1F222E&ring=F8D866&fire=F85D7F&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF" />
